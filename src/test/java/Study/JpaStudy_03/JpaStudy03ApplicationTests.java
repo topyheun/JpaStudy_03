@@ -9,5 +9,4 @@ class JpaStudy03ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
