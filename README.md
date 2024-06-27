@@ -1,5 +1,3 @@
-# (실전! 스프링 데이터 JPA - 김영한)
+# JPA Study: 03
 
-
-### [ 순수 JPA vs 스프링 데이터 JPA ]
-<br>
+순수 JPA와 Spring Data JPA를 비교하며 학습하는 프로젝트입니다.
